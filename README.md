@@ -11,9 +11,7 @@
 
 
 
-##  *Instalación de proyecto* - FRONT END
-
-## *Instalación de proyecto* - Back-End
+##  *Instalación de proyecto* 
 ### Cómo ejecutar el proyecto
 - Instalar Postgresql
 - Instalar Python
