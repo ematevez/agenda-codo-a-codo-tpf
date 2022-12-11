@@ -62,5 +62,5 @@
 
 ### Full Stack
 
-#### Federico Ariel Kuo  | Emanuel Julian Tevez | Lourdes Sofía Fabbro |Karen Sofia Jauregui
- [<img src="https://user-images.githubusercontent.com/22551090/197237747-4dec5b24-4df1-4f8f-8ec4-bc9b7a727c06.png" width=50><br><sub>FedericoArielKuo </sub>](https://github.com/rene3255) | [<img src="https://user-images.githubusercontent.com/22551090/206501284-baa34dc7-8118-4bb1-b7f6-b605ee916bb9.png" width=50><br><sub>Emanuel Tevez</sub>](https://github.com/ematevez) | (https://github.com/lourdes2211) |(https://github.com/kasoja69) | 
+#### Federico Ariel Kuo  | Emanuel Julian Tevez | Lourdes Sofía Fabbro | Karen Sofia Jauregui
+ [<img src="https://user-images.githubusercontent.com/22551090/197237747-4dec5b24-4df1-4f8f-8ec4-bc9b7a727c06.png" width=50><br><sub>FedericoArielKuo</sub>](https://github.com/FedericoArielKuo) | [<img src="https://user-images.githubusercontent.com/22551090/206501284-baa34dc7-8118-4bb1-b7f6-b605ee916bb9.png" width=50><br><sub>Emanuel Tevez</sub>](https://github.com/ematevez) | (https://github.com/lourdes2211)  [<img src="https://user-images.githubusercontent.com/22551090/197237747-4dec5b24-4df1-4f8f-8ec4-bc9b7a727c06.png" width=50><br><sub>Karen Jauregui</sub>]( https://(github.com/kasoja69) | 
