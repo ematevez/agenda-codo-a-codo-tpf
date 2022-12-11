@@ -1,11 +1,9 @@
-# agenda-codo-a-codo-tpf
+# 
  
-# **Bike Lovers**
-## App para conectar ciclistas, grupos de ciclistas y eventos.
+# **CODO A CODO TRABAJO FINAL INTEGRADOR**
+## App.
 
-
-
-<p align="center"><a href="https://bikelovers.vercel.app/" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://user-images.githubusercontent.com/22551090/206509976-a074cfd6-ddd0-421d-89ee-0ada06c5f02f.png" alt="Bike Lovers"></a></p>
+<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://user-images.githubusercontent.com/22551090/206509976-a074cfd6-ddd0-421d-89ee-0ada06c5f02f.png" alt="Bike Lovers"></a></p>
 
 
 ##Descripción del proyecto
@@ -37,9 +35,9 @@
     python manage.py runserver
 ```
 ## *Presentación de proyecto*
-##<p align="center"><a href="https://bikelovers.vercel.app/" target="_blank" rel="noopener noreferrer">Bike Lovers</a></p>
+##<p align="center"><a href="#" target="_blank" rel="noopener noreferrer">Bike Lovers</a></p>
 
-<p align="center"><a href="https://bikelovers.vercel.app/" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://user-images.githubusercontent.com/22551090/206494950-cf1d35aa-b4c0-48c5-931b-a5cb5dd0c073.png" alt="BikeLovers"></a></p>
+<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://user-images.githubusercontent.com/22551090/206494950-cf1d35aa-b4c0-48c5-931b-a5cb5dd0c073.png" alt="BikeLovers"></a></p>
 
 
 
@@ -73,13 +71,7 @@
 
 ## Desarrolladores del proyecto:
 
-### FrontEnd
-#### [Daniel Albanez]() | [Francisco Rey]()
-| [<img src="https://user-images.githubusercontent.com/22551090/206502965-80e7ca06-e74d-4528-9fa8-55c3a2da4763.png" width=50><br><sub>Daniel Albanez</sub>](https://github.com/danielalbanez40) | [<img src="https://user-images.githubusercontent.com/22551090/206503632-55b9eeb3-0712-4775-8443-789f4ee92cbd.png" width=50><br><sub>Francisco Rey</sub>](https://github.com/franrey98) | 
-|:--------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
-
-###  UX-UI
-#### [Alex Ruiz]()
+### Full Stack
 
 ### BackEnd
 #### [Agustin Medina]() | [Fabian Di Paolo]() | [Rene Silva Carrillo]() | [Emanuel Tevez]() | [Marvin Achas	Back-End](https://www.linkedin.com/in/marvin-joel/)
