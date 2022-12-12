@@ -8,6 +8,22 @@
 <form action="/create_task/" method="POST">
   {% csrf_token %}
   {{form}}
+    <div class="title">
+    <label for="title">title>
+    <input type="title">
+  </div>
+
+   <div class="description">
+    <label for="description">
+    <input type="description" >
+  </div>
+
+  <div class="important">
+    <label for="important">
+ 
+  </div>
+      
+       </div>
 
   <button>Save</button>
 </form>
