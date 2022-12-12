@@ -28,9 +28,6 @@ Agenda que registrar y regula sus tareas pendientes sean importantes o no
     python manage.py runserver
 ```
 ## *Presentación de proyecto*
-##<p align="center"><a href="#" target="_blank" rel="noopener noreferrer">Bike Lovers</a></p>
-
-<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="100%" src="#" alt="BikeLovers"></a></p>
 
 
 <br>  
