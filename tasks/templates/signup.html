@@ -1,13 +1,16 @@
 {% extends 'base.html' %} {% block content %}
 
 <div class="container">
-  <h1>Signup</h1>
+  <h1 class="text-center">REGISTRO</h1>
 
   {{error}}
-
-  <form action="/signup/" method="POST">
-    {% csrf_token %} {{form.as_p}}
-    <button class="btn btn-primary">Signup</button>
-  </form>
+  <div class="row">  
+    <div class="col-md-4 offset-md-4">
+      <form action="/signup/" method="POST">
+        {% csrf_token %} {{form}}
+        <button class="btn btn-dark">Registro</button>
+      </form>
+    </div>
+  </div>
 </div>
 {% endblock %}

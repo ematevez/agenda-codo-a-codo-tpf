@@ -2,13 +2,17 @@
 
 {% block content %}
 
-<h1>CReate task</h1>
+<h1>CREAR TAREA</h1>
 
 {{error}}
-<form action="/create_task/" method="POST">
-  {% csrf_token %}
-  {{form}}
+<div class="row">  
+  <div class="col-md-4 offset-md-4">
+    <form action="/create_task/" method="POST">
+      {% csrf_token %}
+      {{form}}
 
-  <button>Save</button>
-</form>
+      <button>GUARDAR</button>
+    </form>
+  </div>
+</div>
 {% endblock %}
