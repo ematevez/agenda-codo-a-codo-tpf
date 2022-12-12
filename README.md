@@ -3,12 +3,9 @@
 # **CODO A CODO TRABAJO FINAL INTEGRADOR**
 ## App.
 
-<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="100%" src="#" alt="Bike Lovers"></a></p>
-
-
 ##Descripción del proyecto
 - 
-
+Agenda que registrar y regula sus tareas pendientes sean importantes o no
 
 
 ##  *Instalación de proyecto* 
