@@ -63,5 +63,5 @@
 ### Full Stack
 
 #### Federico Ariel Kuo  | Emanuel Julian Tevez | Lourdes Sofía Fabbro | Karen Sofia Jauregui
-[<img src="https://avatars.githubusercontent.com/u/111018685?v=4.png" width=50><br><sub>Federico Ariel Kuo</sub>] https://github.com/FedericoArielKuo | [<img src="https://user-images.githubusercontent.com/22551090/206501284-baa34dc7-8118-4bb1-b7f6-b605ee916bb9.png" width=50><br><sub>Emanuel Tevez</sub>]https://github.com/ematevez |[<img src="https://avatars.githubusercontent.com/u/113735411?v=4.png" width=50><br><sub> Lourdes Fabbro</sub>]https://(github.com/lourdes2211|[<img src="https://avatars.githubusercontent.com/u/113078406?v=4.pmg"width=50><br><sub>Karen Jauregui</sub>] https://github.com/kasoja69|
+https://github.com/FedericoArielKuo |https://github.com/ematevez|https:github.com/lourdes2211| https://github.com/kasoja69|
  
