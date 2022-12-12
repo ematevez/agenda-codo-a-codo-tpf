@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
-    <a class="navbar-brand" href="/">AGENDA - TAREAS</a>
+    <a class="navbar-brand" href="/">Navbar</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -20,14 +20,14 @@
         {% if user.is_authenticated %}
         <li class="nav-item">
           <a href="{% url 'tasks_completed' %}" class="nav-link"
-            >Tareas Completas</a
+            >complted tasks</a
           >
         </li>
         <li class="nav-item">
-          <a href="{% url 'tasks' %}" class="nav-link">Tareas</a>
+          <a href="{% url 'tasks' %}" class="nav-link">Tasks</a>
         </li>
         <li class="nav-item">
-          <a href="{% url 'create_task' %}" class="nav-link">Crear Tarea</a>
+          <a href="{% url 'create_task' %}" class="nav-link">Create Task</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/logout">Logout</a>
@@ -37,7 +37,7 @@
           <a href="/signin" class="nav-link">Login</a>
         </li>
         <li class="nav-item">
-          <a href="/signup" class="nav-link">Registro</a>
+          <a href="/signup" class="nav-link">Register</a>
         </li>
         {% endif %}
       </ul>
