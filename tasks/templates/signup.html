@@ -6,7 +6,24 @@
   {{error}}
 
   <form action="/signup/" method="POST">
-    {% csrf_token %} {{form.as_p}}
+    {% csrf_token %} {{form.as_p}
+    <!--ESTO LO HICE DESDE EL CELU, PORFAVOR REVISAR-->
+    <div class="form-group">
+      <label for="usernameR">Email address</label>
+      <input type="email" class="form-control" id="usernameR" name="usernameR" aria-describedby="usernameR" placeholder="Ingrese su mail">
+      <small id="usernameR" class="form-text text-muted">Obligatorio. Maximo de 150 caracteres. Solo letras, numeros y @/./+/-/_.</small>
+    </div>
+    <div class="form-group">
+      <label for="passwordR">Password</label>
+      <input type="email" class="form-control" id="passwordR" name="passwordR" aria-describedby="passwordR" placeholder="Ingrese su contraseña">
+      <ul>
+        <li>Tu contraseña no puede ser muy similar a tu otra informacion personal.</li>
+        <li>Tu contraseña debe contener al menos 8 caracteres.</li>
+        <li>Tu contraseña no debe ser una muy común.</li>
+        <li>Tu contraseña no puede ser solamente numérica.</li>
+      </ul>
+    </div>
+
     <button class="btn btn-dark mt-3">Signup</button>
   </form>
 </div>
