@@ -58,4 +58,5 @@ Agenda que registrar y regula sus tareas pendientes sean importantes o no
 
 #### | Emanuel Julian Tevez |
  | https://github.com/ematevez | 
+ | https://www.linkedin.com/in/emanuel-juli%C3%A1n-tevez/ | 
  
