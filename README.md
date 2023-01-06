@@ -56,6 +56,6 @@ Agenda que registrar y regula sus tareas pendientes sean importantes o no
 
 ### Full Stack
 
-#### Federico Ariel Kuo  | Emanuel Julian Tevez | Lourdes Sofía Fabbro | Karen Sofia Jauregui
-https://github.com/FedericoArielKuo | https://github.com/ematevez | https://github.com/lourdes2211 | https://github.com/kasoja69 |
+####| Emanuel Julian Tevez |
+ | https://github.com/ematevez | 
  
