@@ -56,6 +56,6 @@ Agenda que registrar y regula sus tareas pendientes sean importantes o no
 
 ### Full Stack
 
-####| Emanuel Julian Tevez |
+#### | Emanuel Julian Tevez |
  | https://github.com/ematevez | 
  
